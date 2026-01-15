@@ -1,0 +1,7 @@
+{
+  "name": "Obtain Fitness - Elite Performance",
+  "description": "A high-end, cinematic landing page for a professional fitness brand featuring aggressive styling, moody lighting, and high-performance training services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
